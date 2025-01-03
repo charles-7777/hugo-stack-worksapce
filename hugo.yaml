@@ -2,7 +2,7 @@ baseurl: https://charles-7777.github.io/hugo-stack/
 languageCode: en-us
 theme: hugo-theme-stack-3.29.0
 paginate: 2
-title: Example Site
+title: 
 copyright: Charles
 
 # Theme i18n support
@@ -23,11 +23,11 @@ languages:
 #                subtitle: Example description
     zh-cn:
         languageName: 中文
-        title: 恭喜发财
+        title: 
         weight: 1
         params:
             sidebar:
-                subtitle: 耐思兔米特油
+                subtitle: 
 #    ar:
 #        languageName: عربي
 #        languagedirection: rtl
@@ -73,7 +73,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
@@ -220,7 +220,7 @@ menu:
           name: Bilibili
           url: https://www.bilibili.com/
           params:
-              icon: bilibili-brand
+              icon: brand-bilibili
         - identifier: github
           name: GitHub
           url: https://github.com/CaiJimmy/hugo-theme-stack
